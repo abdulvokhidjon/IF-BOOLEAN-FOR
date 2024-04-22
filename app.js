@@ -460,3 +460,89 @@ if (n > 0) {
 // } else {
 //   console.log(false);
 // }
+
+// FOR N{1}
+// let n = Number(prompt("Son kiriting"));
+// for (i = 1; i <= n; i++) {
+//   console.log(i);
+// }
+
+// N{2}
+
+// let n = Number(prompt("Son kiriting"));
+// for (let i = n; i >= 1; i--) {
+//   console.log(i);
+// }
+
+// N{3}
+
+// let n = Number(prompt("Son kiriting"));
+// let sum = 0;
+// for (i = 1; i <= n; i++) {
+//   sum += i;
+// }
+// console.log(sum);
+
+// N{4}
+
+// let n = prompt("Son kiriting:");
+// let sum = 0;
+// for (i = 1; i <= n; i++) {
+//   if (i % 2 == 0) {
+//     console.log(i);
+//     sum += i;
+//   }
+// }
+// console.log("sum:", sum);
+
+// N{5}
+
+// let n = prompt("Son kiriting!");
+// let sum = 0;
+// for (i = 1; i <= n; i++) {
+//   if (i % 2 == 1) {
+//     console.log(i);
+//     sum += i;
+//   }
+// }
+// console.log("sum", sum);
+
+// N{6}
+
+// let n = prompt("Son kiriting");
+// for (i = 1; i <= n; i++) {
+//   if (n % i == 0) {
+//     console.log(i);
+//   }
+// }
+
+// N{7}
+
+// let n = prompt("Son kiriting");
+// let sum = 0;
+// let count = 0;
+// for (i = 1; i <= n; i++) {
+//   if (n % i == 0) {
+//     sum += i;
+//     count++;
+//   }
+// }
+// console.log(`${count} ta boluvchi, yigindi: ${sum}`);
+
+// N{8}
+
+// let n = prompt("Son kiriting");
+// let sum = 0;
+// let total = 0;
+// for (i = 1; i <= n; i++) {
+//   if (n % i == 0) {
+//     total++;
+//   }
+// }
+// if (total == 2) {
+//   console.log("tubson");
+// } else if (total == 1) {
+//   console.log("1 raqami tubga ham, tub emasga ham kirmaydi");
+// } else {
+//   console.log("tubson emas");
+// }
