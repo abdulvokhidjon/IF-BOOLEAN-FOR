@@ -221,7 +221,7 @@ if (n > 0) {
 //   console.log("Bu musbat son emas");
 // }
 
-N{2}
+// N{2}
 
 // let num = Number(prompt("Son kiriting"));
 // if (num % 2 == 1) {
@@ -230,7 +230,7 @@ N{2}
 //   console.log("Bu toq son emas");
 // }
 
-N{3}
+// N{3}
 
 // let num = Number(prompt("Son kiriting"));
 // if (num % 2 == 0) {
@@ -239,7 +239,7 @@ N{3}
 //   console.log("Bu juft son emas");
 // }
 
-N{4}
+// N{4}
 
 // let a = Number(prompt("Son kiriting"));
 // let b = Number(prompt("Son kiriting"));
@@ -249,7 +249,7 @@ N{4}
 //   console.log("A 2 dan katta emas va B 3dan kichik yoki teng emas");
 // }
 
-N{5}
+// N{5}
 
 // let a = Number(prompt("Son kiriting"));
 // let b = Number(prompt("Son kiriting"));
@@ -259,7 +259,7 @@ N{5}
 //   console.log("A 0 dan katta yoki teng emas va B -2 dan kichik emas");
 // }
 
-N{6}
+// N{6}
 
 // let a = Number(prompt("a Son kiriting"));
 // let b = Number(prompt("b Son kiriting"));
@@ -270,7 +270,7 @@ N{6}
 //   console.log(false);
 // }
 
-N{7}
+// N{7}
 
 // let a = Number(prompt("a Son kiriting"));
 // let b = Number(prompt("b Son kiriting"));
@@ -281,7 +281,7 @@ N{7}
 //   console.log(false);
 // }
 
-N{8}
+// N{8}
 
 // let a = Number(prompt("a Son kiriting"));
 // let b = Number(prompt("b Son kiriting"));
@@ -291,7 +291,7 @@ N{8}
 //   console.log(false);
 // }
 
-/N{9}
+// /N{9}
 // let a = Number(prompt("a Son kiriting"));
 // let b = Number(prompt("b Son kiriting"));
 // if (a % 2 == 1 || b % 2 == 1) {
@@ -300,7 +300,7 @@ N{8}
 //   console.log(false);
 // }
 
-N{10}
+// N{10}
 
 // let a = Number(prompt("a Son kiriting"));
 // let b = Number(prompt("b Son kiriting"));
@@ -310,7 +310,7 @@ N{10}
 //   console.log(false);
 // }
 
-N{11}
+// N{11}
 
 // let a = Number(prompt("a Son kiriting"));
 // let b = Number(prompt("b Son kiriting"));
@@ -320,7 +320,7 @@ N{11}
 //   console.log(false);
 // }
 
-N{12}
+// N{12}
 // let a = Number(prompt("a Son kiriting"));
 // let b = Number(prompt("b Son kiriting"));
 // let c = Number(prompt("c Son kiriting"));
@@ -330,7 +330,7 @@ N{12}
 //   console.log(false);
 // }
 
-N{13}
+// N{13}
 
 // let a = Number(prompt("a Son kiriting"));
 // let b = Number(prompt("b Son kiriting"));
@@ -341,7 +341,7 @@ N{13}
 //   console.log(false);
 // }
 
-N{14}
+// N{14}
 
 // let a = Number(prompt("a Son kiriting"));
 // let b = Number(prompt("b Son kiriting"));
@@ -356,7 +356,7 @@ N{14}
 //   console.log(false);
 // }
 
-N{15}
+// N{15}
 
 // let a = Number(prompt("a Son kiriting"));
 // let b = Number(prompt("b Son kiriting"));
@@ -371,7 +371,7 @@ N{15}
 //   console.log(false);
 // }
 
-N{16}
+// N{16}
 
 // let n = Number(prompt("n Son kiriting"));
 
@@ -381,7 +381,7 @@ N{16}
 //   console.log(false);
 // }
 
-N{17}
+// N{17}
 
 // let n = Number(prompt("n Son kiriting"));
 
@@ -391,7 +391,7 @@ N{17}
 //   console.log(false);
 // }
 
-N{18}
+// N{18}
 
 // let a = Number(prompt("a Son kiriting"));
 // let b = Number(prompt("b Son kiriting"));
